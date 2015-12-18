@@ -1,0 +1,28 @@
+name: Alterseko
+favicon: null
+layout_spectrum: 0.8348680743947625
+typography_spectrum: 0.36635573231615126
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5146553318481892
+  lightness: 0.2730545874219388
+  saturation: 0.41751882480457425
+  rhythmicContrast: 0.2543880387675017
+purpose: []
