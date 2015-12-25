@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Altersekoenterprisesltd]]></title>
         <description><![CDATA[Altersekoenterprisesltd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alterseko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 05:53:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Dec 2015 06:04:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alterseko/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>dsadasdasdsdadasdsd</p>]]></description>
-            <link>undefined8d1b8688-7fdc-4ab6-9178-0a6b3e610e36/index.html</link>
+            <link>https://thegrid.ai/alterseko/8d1b8688-7fdc-4ab6-9178-0a6b3e610e36/index.html</link>
             <guid isPermaLink="false">8d1b8688-7fdc-4ab6-9178-0a6b3e610e36</guid>
-            <pubDate>Fri, 25 Dec 2015 05:52:57 GMT</pubDate>
+            <pubDate>Fri, 25 Dec 2015 06:03:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
