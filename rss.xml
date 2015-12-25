@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Altersekoenterprisesltd]]></title>
+        <description><![CDATA[Altersekoenterprisesltd]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 25 Dec 2015 06:36:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid]]></title>
+            <description><![CDATA[<article><h1>The Grid</h1><p></p></article>]]></description>
+            <link>https://app.thegrid.io/drafts</link>
+            <guid isPermaLink="false">9fde808d-0abe-43d1-9ed7-a8966ba594ec</guid>
+            <pubDate>Fri, 25 Dec 2015 06:36:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
