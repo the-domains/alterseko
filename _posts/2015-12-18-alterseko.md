@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-12-25T05:40:26.789Z'
-dateModified: '2015-12-25T05:37:33.136Z'
+datePublished: '2015-12-25T05:48:55.002Z'
+dateModified: '2015-12-25T05:48:46.015Z'
 title: Alterseko
 author: []
 sourcePath: _posts/2015-12-18-alterseko.md
