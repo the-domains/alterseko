@@ -1,6 +1,6 @@
 name: Alterseko
 favicon: null
-layout_spectrum: 0.7438
+layout_spectrum: 0.86208
 typography_spectrum: 0.39143
 title: Altersekoenterprisesltd
 cta:
@@ -22,8 +22,8 @@ color:
     - '#b7e0f6'
     - '#96b1dc'
     - '#a5cae9'
-  brandStrength: 1
-  lightness: 0.5
+  brandStrength: 0.6875
+  lightness: 0.125
   saturation: 0.75
   rhythmicContrast: 1
 purpose: []
