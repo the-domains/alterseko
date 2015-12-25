@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-25T12:11:05.300Z'
-dateModified: '2015-12-25T12:10:00.901Z'
+datePublished: '2015-12-25T12:11:16.230Z'
+dateModified: '2015-12-25T12:11:07.946Z'
 title: digging then power of nginx
 author: []
 sourcePath: _posts/2015-12-25-digging-then-power-of-nginx.md
