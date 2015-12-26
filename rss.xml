@@ -4,7 +4,7 @@
         <description><![CDATA[Altersekoenterprisesltd]]></description>
         <link>https://thegrid.ai/alterseko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 14:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 14:35:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alterseko/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[alterseko]]></title>
@@ -12,6 +12,13 @@
             <link>https://app.thegrid.io/alterseko</link>
             <guid isPermaLink="false">8d1b8688-7fdc-4ab6-9178-0a6b3e610e36</guid>
             <pubDate>Sat, 26 Dec 2015 14:19:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this the real life?]]></title>
+            <description><![CDATA[<article><h1>Is this the real life?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbd7e3a7dd00f3f6682df77178b5c5f52f0a629b.png"></article>]]></description>
+            <link>https://thegrid.ai/alterseko/is-this-the-real-life/index.html</link>
+            <guid isPermaLink="false">a56452b7-92d8-47a2-bd69-3738cf560fd1</guid>
+            <pubDate>Sat, 26 Dec 2015 14:35:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
